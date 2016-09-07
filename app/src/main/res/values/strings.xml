@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nougat Notification</string>
+    <string name="action_settings">Settings</string>
+    <string name="username">Shabbir Dhangot</string>
+    <string name="content">Hi How are you?</string>
+    <string name="reply">REPLY</string>
+</resources>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/media/shabbir/Projects/GreatBuyz/GreatBuyz/Android/Branch/Development/NougatNotification/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/media/shabbir/Projects/GreatBuyz/GreatBuyz/Android/Branch/Development/NougatNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_a8c32d98a1b6cf26d6c32169e76b4008a3ce3123/classes.dex" />
+    </item>
+    <item
+        jar="/media/shabbir/Projects/GreatBuyz/GreatBuyz/Android/Branch/Development/NougatNotification/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/media/shabbir/Projects/GreatBuyz/GreatBuyz/Android/Branch/Development/NougatNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.0_a48e7a2e098962d380870778aa7898ded56d40d7/classes.dex" />
+    </item>
+    <item
+        jar="/media/shabbir/Projects/GreatBuyz/GreatBuyz/Android/Branch/Development/NougatNotification/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/media/shabbir/Projects/GreatBuyz/GreatBuyz/Android/Branch/Development/NougatNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_8e8ef3ac14396d41350b3b83f070d44cefb5c0a1/classes.dex" />
+    </item>
+    <item
+        jar="/media/shabbir/Projects/GreatBuyz/GreatBuyz/Android/Branch/Development/NougatNotification/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/media/shabbir/Projects/GreatBuyz/GreatBuyz/Android/Branch/Development/NougatNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_8c5e56ab5454ec18faeab716dbfb6dc74d3b02d1/classes.dex" />
+    </item>
+    <item
+        jar="/media/shabbir/Projects/GreatBuyz/GreatBuyz/Android/Branch/Development/NougatNotification/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/media/shabbir/Projects/GreatBuyz/GreatBuyz/Android/Branch/Development/NougatNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_9f2d9f9928ae144eb2004945b966ec4f1fd16552/classes.dex" />
+    </item>
+    <item
+        jar="/media/shabbir/Projects/GreatBuyz/GreatBuyz/Android/Branch/Development/NougatNotification/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="95823f18cf5b80df7332bd2c85d51efcd83de984">
+        <dex dex="/media/shabbir/Projects/GreatBuyz/GreatBuyz/Android/Branch/Development/NougatNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6e0885e7b8f05c4eff706e3d4119cc0abb1a6e36/classes.dex" />
+    </item>
+    <item
+        jar="/media/shabbir/Projects/GreatBuyz/GreatBuyz/Android/Branch/Development/NougatNotification/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/media/shabbir/Projects/GreatBuyz/GreatBuyz/Android/Branch/Development/NougatNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_f141a110e13e9400e5d7721f7ecf79eb60130180/classes.dex" />
+    </item>
+    <item
+        jar="/media/shabbir/Projects/GreatBuyz/GreatBuyz/Android/Branch/Development/NougatNotification/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/media/shabbir/Projects/GreatBuyz/GreatBuyz/Android/Branch/Development/NougatNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_c017a795ee7d2dfbc4f31a53462efe1a49f43527/classes.dex" />
+    </item>
+    <item
+        jar="/media/shabbir/Projects/GreatBuyz/GreatBuyz/Android/Branch/Development/NougatNotification/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/media/shabbir/Projects/GreatBuyz/GreatBuyz/Android/Branch/Development/NougatNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_72490b553c5b34c2718a362c61913ced6603a812/classes.dex" />
+    </item>
+    <item
+        jar="/media/shabbir/Projects/GreatBuyz/GreatBuyz/Android/Branch/Development/NougatNotification/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/media/shabbir/Projects/GreatBuyz/GreatBuyz/Android/Branch/Development/NougatNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_0eba5d56531d0e8956ace577794bed4f18497147/classes.dex" />
+    </item>
+    <item
+        jar="/media/shabbir/Projects/GreatBuyz/GreatBuyz/Android/Branch/Development/NougatNotification/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/media/shabbir/Projects/GreatBuyz/GreatBuyz/Android/Branch/Development/NougatNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_b46289058323e76a7a72ae41e6bc285464ecd1ca/classes.dex" />
+    </item>
+    <item
+        jar="/media/shabbir/Projects/GreatBuyz/GreatBuyz/Android/Branch/Development/NougatNotification/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/media/shabbir/Projects/GreatBuyz/GreatBuyz/Android/Branch/Development/NougatNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.0_c80876bba48dbdece2e452be4d3c65142533f3a6/classes.dex" />
+    </item>
+    <item
+        jar="/media/shabbir/Projects/GreatBuyz/GreatBuyz/Android/Branch/Development/NougatNotification/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/media/shabbir/Projects/GreatBuyz/GreatBuyz/Android/Branch/Development/NougatNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_958609ad3a7e3d79fdfe1e2484c4cace6a5c5f0e/classes.dex" />
+    </item>
+    <item
+        jar="/media/shabbir/Projects/GreatBuyz/GreatBuyz/Android/Branch/Development/NougatNotification/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/media/shabbir/Projects/GreatBuyz/GreatBuyz/Android/Branch/Development/NougatNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_c04fce7a4730bb6d85c27329709e1356e4d4d56c/classes.dex" />
+    </item>
+    <item
+        jar="/media/shabbir/Projects/GreatBuyz/GreatBuyz/Android/Branch/Development/NougatNotification/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c2106ae481bc4874358899e7dde7eb309ee7aa40">
+        <dex dex="/media/shabbir/Projects/GreatBuyz/GreatBuyz/Android/Branch/Development/NougatNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c291f289123183b014beef3bbaf91b05f8a8ed9a/classes.dex" />
+    </item>
+    <item
+        jar="/media/shabbir/Projects/GreatBuyz/GreatBuyz/Android/Branch/Development/NougatNotification/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/media/shabbir/Projects/GreatBuyz/GreatBuyz/Android/Branch/Development/NougatNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_dbeca158a18ce5778631100ccec6dd7d7c2e68de/classes.dex" />
+    </item>
+    <item
+        jar="/media/shabbir/Projects/GreatBuyz/GreatBuyz/Android/Branch/Development/NougatNotification/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/media/shabbir/Projects/GreatBuyz/GreatBuyz/Android/Branch/Development/NougatNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_2bcef8ec74824e5507d0c242f82ba470de66d985/classes.dex" />
+    </item>
+    <item
+        jar="/media/shabbir/Projects/GreatBuyz/GreatBuyz/Android/Branch/Development/NougatNotification/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/media/shabbir/Projects/GreatBuyz/GreatBuyz/Android/Branch/Development/NougatNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_b9ebb7780ac2cc855ff8a921bc3e808787bb30b7/classes.dex" />
+    </item>
+    <item
+        jar="/media/shabbir/Softwares/AndroidSDK/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/media/shabbir/Projects/GreatBuyz/GreatBuyz/Android/Branch/Development/NougatNotification/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_4541874d3341b0f98bd9c2c28c323f66daa9beba/classes.dex" />
+    </item>
+
+</items>
